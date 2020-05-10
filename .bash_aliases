@@ -1,0 +1,1 @@
+/home/duncan/configs/.bash_aliases
